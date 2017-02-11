@@ -6,7 +6,8 @@ until the last twenty seconds when it blasts back at max, hopefully after the
 user has continuously increased the volume on their external unit to compensate
 for it being 'too low'.
 
-Built at the [Swedish edition of Stupid Hackathon](https://www.stupidhackathon.se/)
+Built at the [Swedish edition](https://www.stupidhackathon.se) of
+[Stupid Hackathon](https://stupidhackathon.com)
 
 February 11, 2017
 
