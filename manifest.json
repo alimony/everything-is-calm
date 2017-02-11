@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Everything is Calm",
+    "description": "Invisibly lowers the volume of YouTube videos over time, until the last ten seconds when it blasts it at max, hopefully after the user has continuously increased the volume on their external unit to compensate for it being 'too low'.",
+    "version": "1.0",
+    "author": "Markus Amalthea Magnuson <markus.magnuson@gmail.com>",
+    "content_scripts": [
+        {
+            "matches": ["*://www.youtube.com/watch*"],
+            "js": [
+                "script.js"
+            ]
+        }
+    ]
+}
